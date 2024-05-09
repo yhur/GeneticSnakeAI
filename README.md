@@ -1,7 +1,9 @@
 # Genetice SnakeAI 
-It's a modification of Chrispresso/SnakeAI, https://github.com/Chrispresso/SnakeAI.
+This repo is a modification of Chrispresso/SnakeAI, https://github.com/Chrispresso/SnakeAI.
 
-Thanks to Chrispresso/SnakeAI, I can explain the Genetic Algorithm to my student, and while teaching, I wanted to add some minor features for easier explanation.
+![image](https://github.com/yhur/GeneticSnakeAI/assets/13171662/cb5e169b-ebe6-442b-ad81-e648da765c30)
+
+Thanks to Chrispresso/SnakeAI, it was easy in explaining the Genetic Algorithm to my student. And while teaching them with it, I wanted to add some minor features for even easier explanation.
 
 The original snake_app.py is intact and instead mysnake.py is cloned from it and modified for
 
