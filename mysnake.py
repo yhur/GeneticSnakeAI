@@ -135,7 +135,7 @@ class MainWindow(QtWidgets.QMainWindow):
     def init_window(self):
         self.centralWidget = QtWidgets.QWidget(self)
         self.setCentralWidget(self.centralWidget)
-        self.setWindowTitle('Snake AI')
+        self.setWindowTitle('Snake AI' + ((' : ' + data_folder) if data_folder != 'weights' else ''))
         self.setGeometry(self.top, self.left, self.width, self.height)
 
         # Create the Neural Network window
